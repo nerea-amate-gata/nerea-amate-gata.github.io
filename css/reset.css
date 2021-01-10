@@ -1,0 +1,15 @@
+
+
+body {
+    margin: 0px;
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: #fefefe;
+    line-height: 1.5em;
+    font-family: "poppins-regular";
+    cursor: pointer;
+}
+
